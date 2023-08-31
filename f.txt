@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 maquina ofline
+=======
+maquina online
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 63cf7933dfe41822375b9158895da3c056e65f7d
 
 
 
