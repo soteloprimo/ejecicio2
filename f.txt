@@ -1,3 +1,8 @@
+maquina online
+
+
+
+
 <<<<<<< HEAD
 datos local
 =======
