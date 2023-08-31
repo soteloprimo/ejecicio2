@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 maquina local ofline
 
+=======
+maquina online
+>>>>>>> 5101a7f0b8ca848128e90b43d71b91c455908f3b
 
 
 
