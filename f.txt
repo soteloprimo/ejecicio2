@@ -1,3 +1,7 @@
+maquina ofline
+
+
+
 <<<<<<< HEAD
 maquina local ofline
 
