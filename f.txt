@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 datos local
+=======
+datos git bub
+
+>>>>>>> 790e785995161c1ae0688229ec1651394acc2f83
 
 
 datos git hub
