@@ -1,3 +1,9 @@
+maquina local ofline
+
+
+
+
+
 <<<<<<< HEAD
 datos local
 =======
